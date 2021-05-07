@@ -1,0 +1,322 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 7696,
+      "max": [
+        184.37911987304688,
+        125.85649108886719,
+        1656.8973388671875
+      ],
+      "min": [
+        -185.622802734375,
+        -184.79641723632812,
+        945.51397705078125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 92352,
+      "componentType": 5126,
+      "count": 7696,
+      "max": [
+        0.99989426136016846,
+        0.99997889995574951,
+        0.99870854616165161
+      ],
+      "min": [
+        -0.99989253282546997,
+        -0.99997878074645996,
+        -0.99871861934661865
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 7696,
+      "max": [
+        0.99999678134918213,
+        0.99660563468933105,
+        0.96879726648330688,
+        1
+      ],
+      "min": [
+        -0.99999892711639404,
+        -0.99847912788391113,
+        -0.95614546537399292,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 7696,
+      "max": [
+        257.656494140625,
+        386.7218017578125
+      ],
+      "min": [
+        -257.656494140625,
+        -389.31884765625
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 40650,
+      "max": [
+        7695
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 184704,
+      "componentType": 5126,
+      "count": 11058,
+      "max": [
+        178.03694152832031,
+        116.06726837158203,
+        1655.7540283203125
+      ],
+      "min": [
+        -176.53274536132812,
+        -181.65740966796875,
+        958.06475830078125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 317400,
+      "componentType": 5126,
+      "count": 11058,
+      "max": [
+        0.99999678134918213,
+        0.99995726346969604,
+        0.9999881386756897
+      ],
+      "min": [
+        -0.9998137354850769,
+        -0.99961525201797485,
+        -0.99845278263092041
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 123136,
+      "componentType": 5126,
+      "count": 11058,
+      "max": [
+        0.99964684247970581,
+        0.99998199939727783,
+        0.99964088201522827,
+        1
+      ],
+      "min": [
+        -0.99996393918991089,
+        -0.99978739023208618,
+        -0.99963057041168213,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 61568,
+      "componentType": 5126,
+      "count": 11058,
+      "max": [
+        258.156494140625,
+        387.1986083984375
+      ],
+      "min": [
+        -258.156494140625,
+        -389.81884765625
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 162600,
+      "componentType": 5125,
+      "count": 56268,
+      "max": [
+        11057
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "romeroromwel (https://sketchfab.com/romeroromwel)",
+      "license": "CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)",
+      "source": "https://sketchfab.com/3d-models/sportswear-1737b6b9d911454faa170be52e8f784b",
+      "title": "sportswear"
+    },
+    "generator": "Sketchfab-6.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 387672,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 150032,
+      "byteOffset": 387672,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 450096,
+      "byteOffset": 537704,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 300064,
+      "byteOffset": 987800,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1287864,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "FABRIC_1_FRONT_4379",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1,
+        -1.7853747624282703e-32,
+        1.6081226229577292e-16,
+        0,
+        -8.0068364242718248e-33,
+        1,
+        1.6081226229577292e-16,
+        0,
+        -1.6081226229577292e-16,
+        -1.6081226229577292e-16,
+        1,
+        0,
+        2.0927704014184201e-13,
+        2.0961010704922955e-13,
+        0,
+        1
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        4
+      ],
+      "name": "d.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+
